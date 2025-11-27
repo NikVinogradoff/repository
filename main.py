@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("ficha n1")
+print("ficha n2")
